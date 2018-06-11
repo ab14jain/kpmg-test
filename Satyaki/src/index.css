@@ -114,3 +114,7 @@
     float: left;
     margin-right: 10px !important;
 }
+
+.btn-learn-more {
+    cursor: pointer;
+}
